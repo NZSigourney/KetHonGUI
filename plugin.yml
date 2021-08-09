@@ -1,0 +1,9 @@
+name: Marry
+version: 1.0.0
+main: GreenJajot\Marry\Main
+api: 3.0.0
+author: GreenJajot
+commands:
+ kethon:
+  description: "Kết Hôn System"
+  default: true
