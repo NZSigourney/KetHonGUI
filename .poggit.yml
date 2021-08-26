@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/NZSigourney/KetHonGUI
+build-by-default: true
+branches:
+- main
+projects:
+  KetHonGUI:
+    path: ""
+...
